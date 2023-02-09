@@ -195,6 +195,11 @@ header .cart {
     border-radius: 2px;
     cursor: pointer;
 }
+
+.section-4-offers-viewall img{
+    width: 100%;
+}
+
 .section-4-list {
     height: 100%;
     width: calc(100% - 230px);
