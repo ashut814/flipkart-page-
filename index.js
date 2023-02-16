@@ -1,7 +1,7 @@
 const image = document.querySelector('.slider-image');
 let counter = 0;
 
-function right(){
+const  right = () => {
   if(counter < 500){
     counter+=100;
     image.style.transition = `1s`;
